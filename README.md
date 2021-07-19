@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balexandroff
 - 👀 I’m interested in everything except programming
-- 🌱 I’m currently learning how to produce bugs more effectively
-- 💞️ I’m looking to collaborate on creating all kind of bugs
+- 🌱 I’m currently learning how to produce software bugs more effectively
+- 💞️ I’m looking to collaborate on creating all kind of software bugs
 - 📫 How to reach me - send me letter by pigeon
 
 <!---
